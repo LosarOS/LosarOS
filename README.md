@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="LosarOS — аналитика, разработка, ИИ" width="100%" />
+  <img src="assets/header.svg" alt="Роман — аналитика, разработка, ИИ" width="100%" />
 </p>
 
 <img align="right" src="assets/portrait.png" alt="Моя фотография" width="235" />
