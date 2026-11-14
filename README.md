@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Роман — аналитика, разработка, ИИ" width="100%" />
+  <img src="assets/products-header.svg" alt="Роман — аналитика, разработка, ИИ" width="100%" />
 </p>
 
 <img align="right" src="assets/portrait.png" alt="Моя фотография" width="235" />
+
+[English](README.en.md) · [SHIFT](https://github.com/LosarOS/SHIFT) · [Codex Team](https://github.com/LosarOS/codex-team)
 
 ### Привет, я Роман
 
@@ -30,7 +32,21 @@
 
 ## Мои проекты
 
-### 01 / Codex Team
+### 01 / SHIFT
+
+**Управляй рабочим пространством Windows по своим правилам.**
+
+Локальный менеджер приложений, папок, файлов, ссылок и команд. Пространства можно проверять до запуска; Studio добавляет собственные виджеты и обратимое статичное оформление рабочего стола. Без обязательного аккаунта и облака.
+
+**Технологии:** C# · .NET 10 · WinUI 3 · SQLite · Windows API
+
+**Опубликованный выпуск:** 1.0.0-rc.7, unsigned prerelease. Windows Server CI не заменяет полную физическую Windows 11/DPI-приёмку.
+
+[Открыть проект →](https://github.com/LosarOS/SHIFT) · [Скачать →](https://github.com/LosarOS/SHIFT/releases/tag/v1.0.0-rc.7) · [Быстрый старт →](https://github.com/LosarOS/SHIFT/blob/main/docs/QUICKSTART-RU.md)
+
+---
+
+### 02 / Codex Team
 
 **Локальная команда ИИ-агентов в приложении для Windows.**
 
@@ -39,13 +55,13 @@
 В приложении есть изолированные рабочие копии Git, история задач, пауза и продолжение, просмотр изменений и Центр действий. Подключение построено на официальном Codex SDK, основной способ входа — через ChatGPT/Codex.
 
 **Технологии:** Python · Codex SDK · Git · Windows Desktop  
-**Статус:** 1.0.0-rc1; финальная приёмка ещё продолжается.
+**Опубликованный выпуск:** 1.0.0-rc11, unsigned prerelease. Нативная упаковка проверена; интерактивная WebView2-приёмка и успешная разработка через живой SDK остаются отдельными gates. Независимый продукт, не официальное приложение OpenAI.
 
 [Репозиторий и описание →](https://github.com/LosarOS/codex-team) · [Руководство на русском →](https://github.com/LosarOS/codex-team/blob/master/docs/USER_GUIDE.md)
 
 ---
 
-### 02 / ТМ XXI
+### 03 / ТМ XXI
 
 **Лендинг для мебельного бизнеса и производства.**
 
@@ -58,7 +74,7 @@
 
 ---
 
-### 03 / Tiny Bunny: Альтернативный взгляд
+### 04 / Tiny Bunny: Альтернативный взгляд
 
 **Неофициальный сюжетный мод для «Зайчика».**
 
@@ -72,6 +88,10 @@
 [О проекте →](https://github.com/LosarOS/TinyBunny-Alternative-View) · [Скачать выпуск →](https://github.com/LosarOS/TinyBunny-Alternative-View/releases/tag/v1.0.0)
 
 ---
+
+## Технологии продуктов
+
+C# / .NET / WinUI 3 · Python / FastAPI · SQLite · HTML / CSS / JavaScript · Git / GitHub Actions. Для веб-проектов — React, Vite и Tailwind CSS.
 
 ## Что изучаю сейчас
 
