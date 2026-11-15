@@ -2,7 +2,7 @@
 
 [Русский](README.md) · [SHIFT](https://github.com/LosarOS/SHIFT) · [Codex Team](https://github.com/LosarOS/codex-team)
 
-![LosarOS](assets/products-header.svg)
+![LosarOS](assets/header.svg)
 
 ## Hi, I’m Roman
 
@@ -14,8 +14,8 @@ My approach: **understand the task → design a solution → build → verify**.
 
 | Project | What it helps with | Published version |
 | --- | --- | --- |
-| [SHIFT](https://github.com/LosarOS/SHIFT) | Local workspaces for apps, files, folders and links, with optional desktop widgets and reversible static wallpaper | [1.0.0-rc.7](https://github.com/LosarOS/SHIFT/releases/tag/v1.0.0-rc.7) |
-| [Codex Team](https://github.com/LosarOS/codex-team) | A local control center for agent tasks, Git isolation, budgets, history and review | [1.0.0-rc11](https://github.com/LosarOS/codex-team/releases/tag/v1.0.0-rc11) |
+| [SHIFT](https://github.com/LosarOS/SHIFT) | Local workspaces for apps, files, folders and links, with optional desktop widgets and reversible static wallpaper | [1.0.0-rc.8](https://github.com/LosarOS/SHIFT/releases/tag/v1.0.0-rc.8) |
+| [Codex Team](https://github.com/LosarOS/codex-team) | A local control center for agent tasks, Git isolation, budgets, history and review | [1.0.0-rc12](https://github.com/LosarOS/codex-team/releases/tag/v1.0.0-rc12) |
 
 Both are unsigned Windows prereleases. Automated packaging evidence does not substitute for complete physical Windows/DPI/accessibility acceptance. Codex Team is an independent product using the official Codex SDK, not an official OpenAI application; successful live SDK development is not yet verified.
 
