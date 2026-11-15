@@ -1,34 +1,80 @@
-# LosarOS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/personal/hero-en-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/personal/hero-en-light.svg">
+  <img src="assets/personal/hero-en-dark.svg" alt="Roman / LosarOS — systems and business analysis, software, web and AI" width="100%">
+</picture>
 
-[Русский](README.md) · [SHIFT](https://github.com/LosarOS/SHIFT) · [Codex Team](https://github.com/LosarOS/codex-team)
+[Русский](README.md) · [My projects](#my-projects) · [Current focus](#current-focus)
 
-![LosarOS](assets/header.svg)
+<img align="right" src="assets/portrait.png" alt="Roman, the person behind LosarOS" width="128">
 
 ## Hi, I’m Roman
 
-I work in systems and business analysis, including business processes in ELMA, and develop software. My interests connect requirements, system behavior and a useful result for the person using it. I am building practical experience in web development, AI agents and automation.
+**A systems and business analyst who enjoys building his own products.**
 
-My approach: **understand the task → design a solution → build → verify**.
+I work with requirements, system behavior and business processes in **ELMA**. I like understanding a problem: what a person needs, how the system should behave and what implementation will involve.
 
-## Featured Windows products
+I have **one year of commercial experience** and **around 4.5 years with C#**. I am expanding my web development skills and exploring AI agents through personal projects, turning ideas into applications people can try.
 
-| Project | What it helps with | Published version |
-| --- | --- | --- |
-| [SHIFT](https://github.com/LosarOS/SHIFT) | Local workspaces for apps, files, folders and links, with optional desktop widgets and reversible static wallpaper | [1.0.0-rc.8](https://github.com/LosarOS/SHIFT/releases/tag/v1.0.0-rc.8) |
-| [Codex Team](https://github.com/LosarOS/codex-team) | A local control center for agent tasks, Git isolation, budgets, history and review | [1.0.0-rc12](https://github.com/LosarOS/codex-team/releases/tag/v1.0.0-rc12) |
+**Understand the problem → design a solution → build → verify.**
 
-Both are unsigned Windows prereleases. Automated packaging evidence does not substitute for complete physical Windows/DPI/accessibility acceptance. Codex Team is an independent product using the official Codex SDK, not an official OpenAI application; successful live SDK development is not yet verified.
+<br clear="all">
 
-## Technologies in use
+## What I work on
 
-C# / .NET / WinUI 3 · Python / FastAPI · SQLite · HTML / CSS / JavaScript · Git / GitHub Actions. Web projects also use React, Vite and Tailwind CSS.
+| Area | My practice |
+| --- | --- |
+| **Analysis** | Requirements, business processes, system behavior and connecting a problem to its implementation. |
+| **C# and Windows** | Around 4.5 years with the language; developing SHIFT, my own desktop application. |
+| **Web** | React, JavaScript, Vite and Tailwind CSS in a real furniture business project. |
+| **AI and automation** | Exploring agent workflows, context management and result review through Codex Team. |
 
-## Other projects
+## My projects
 
-**TM XXI** — a furniture business landing page covering services, completed work, production and an inquiry form. Built with React, JavaScript, Vite and Tailwind CSS. Source repository is private.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/LosarOS/SHIFT">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/personal/shift-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/personal/shift-light.svg">
+  <img src="assets/personal/shift-dark.svg" alt="SHIFT — Windows workspaces" width="100%">
+</picture>
+</a>
+<p><strong><a href="https://github.com/LosarOS/SHIFT">SHIFT</a></strong><br>A Windows environment of my own.</p>
+<p>Apps, files and links in saved workspaces. Desktop widgets and Windows appearance form a separate, explicitly applied profile.</p>
+<p><sub>C# · .NET · WinUI 3 · SQLite</sub></p>
+<p><a href="https://github.com/LosarOS/SHIFT">Source</a> · <a href="https://github.com/LosarOS/SHIFT/releases/tag/v1.0.0-rc.8">Download RC8</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/LosarOS/codex-team">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/personal/codex-team-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/personal/codex-team-light.svg">
+  <img src="assets/personal/codex-team-dark.svg" alt="Codex Team — AI task orchestration" width="100%">
+</picture>
+</a>
+<p><strong><a href="https://github.com/LosarOS/codex-team">Codex Team</a></strong><br>AI agent workflows under my control.</p>
+<p>Task plans, isolated Git working copies, budgets and agent history. Results stay under the user’s control.</p>
+<p><sub>Python · FastAPI · Codex SDK · Git</sub></p>
+<p><a href="https://github.com/LosarOS/codex-team">Source</a> · <a href="https://github.com/LosarOS/codex-team/releases/tag/v1.0.0-rc12">Download RC12</a></p>
+</td>
+</tr>
+</table>
 
-**[Tiny Bunny: Alternative View](https://github.com/LosarOS/TinyBunny-Alternative-View)** — an unofficial Ren’Py story mod for Tiny Bunny, with an installer and Russian instructions. [Public release 1.0](https://github.com/LosarOS/TinyBunny-Alternative-View/releases/tag/v1.0.0). Requires a purchased original game; the first version has no new voice acting.
+**TM XXI — a website for a furniture business.** Services, completed work, production and an inquiry form. A practical project connecting content, interface and implementation. React / JavaScript / Vite / Tailwind CSS; source is private.
 
-## What I am exploring
+**[Tiny Bunny: Alternative View](https://github.com/LosarOS/TinyBunny-Alternative-View) — the creative side of development.** An unofficial story mod with alternative episodes IV–V, choices, endings and epilogues. Ren’Py / Windows. [Release 1.0](https://github.com/LosarOS/TinyBunny-Alternative-View/releases/tag/v1.0.0). A purchased original game is required; there is no new voice acting.
 
-Connecting analytical work with development: understanding applications, turning ideas into usable software, and applying AI where it helps solve a concrete task. This profile is a working portfolio of those projects and experiments.
+<details>
+<summary>Windows project status and verification boundaries</summary>
+
+SHIFT RC8 and Codex Team RC12 are **unsigned prereleases**. Automated Windows checks and checksums: [SHIFT report](https://github.com/LosarOS/SHIFT/blob/main/reports/RELEASE-PUBLICATION-2026-11-15.md) · [Codex Team report](https://github.com/LosarOS/codex-team/blob/master/reports/RELEASE-PUBLICATION-2026-11-15.md). Complete physical Windows/DPI acceptance is separate. Successful live SDK development is unverified; the bounded experiment stopped at AUTH_REQUIRED. Codex Team is an independent project using the official SDK, not an official OpenAI application.
+
+</details>
+
+## Current focus
+
+Deepening my web development skills, exploring AI agents and improving my Windows tools. I want to connect analytical work with code: understand the whole system and turn a solution into a useful user experience.
+
+This profile is where I share projects, experiments and what I learn along the way.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="156" viewBox="0 0 640 156" role="img" aria-labelledby="title"><title id="title">SHIFT — WINDOWS / WORKSPACES</title>
+<rect x="1" y="1" width="638" height="154" rx="18" fill="#f5f2ed" stroke="#dcd7e4"/>
+<path d="M510 0L355 156M580 0L425 156M650 0L495 156" stroke="#dcd7e4" stroke-width="1" opacity=".65"/>
+<text x="28" y="40" font-family="DejaVu Sans,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#666274">WINDOWS / WORKSPACES</text>
+<text x="27" y="106" font-family="DejaVu Sans,Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="-1" fill="#242333">SHIFT</text>
+<text x="540" y="110" font-family="DejaVu Sans,Segoe UI,Arial,sans-serif" font-size="65" fill="#7050b5">↗</text>
+</svg>
