@@ -1,0 +1,73 @@
+{
+  "kind": "GitHub Markdown API HTML in local GitHub-style approximation; not an authenticated GitHub page capture",
+  "scenarios": [
+    {
+      "language": "ru",
+      "theme": "dark",
+      "viewport_width": 1120,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    },
+    {
+      "language": "ru",
+      "theme": "dark",
+      "viewport_width": 390,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    },
+    {
+      "language": "ru",
+      "theme": "light",
+      "viewport_width": 1120,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    },
+    {
+      "language": "ru",
+      "theme": "light",
+      "viewport_width": 390,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    },
+    {
+      "language": "en",
+      "theme": "dark",
+      "viewport_width": 1120,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    },
+    {
+      "language": "en",
+      "theme": "dark",
+      "viewport_width": 390,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    },
+    {
+      "language": "en",
+      "theme": "light",
+      "viewport_width": 1120,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    },
+    {
+      "language": "en",
+      "theme": "light",
+      "viewport_width": 390,
+      "page_overflow": false,
+      "all_images_loaded": true,
+      "matching_theme_sources": true
+    }
+  ],
+  "relative_links_checked": 22,
+  "svg_assets": 8,
+  "portrait_unchanged_sha256": "a8e5a45bb78f9b61e70374c1c03de45566c8c70c20e14baf7c92be3da5c344c6",
+  "authenticated_github_ui_capture": false
+}
