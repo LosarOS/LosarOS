@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/products-header.svg" alt="Роман — аналитика, разработка, ИИ" width="100%" />
+  <img src="assets/header.svg" alt="Роман — аналитика, разработка, ИИ" width="100%" />
 </p>
 
 <img align="right" src="assets/portrait.png" alt="Моя фотография" width="235" />
@@ -40,9 +40,9 @@
 
 **Технологии:** C# · .NET 10 · WinUI 3 · SQLite · Windows API
 
-**Опубликованный выпуск:** 1.0.0-rc.7, unsigned prerelease. Windows Server CI не заменяет полную физическую Windows 11/DPI-приёмку.
+**Опубликованный выпуск:** 1.0.0-rc.8, unsigned prerelease. Windows Server CI не заменяет полную физическую Windows 11/DPI-приёмку.
 
-[Открыть проект →](https://github.com/LosarOS/SHIFT) · [Скачать →](https://github.com/LosarOS/SHIFT/releases/tag/v1.0.0-rc.7) · [Быстрый старт →](https://github.com/LosarOS/SHIFT/blob/main/docs/QUICKSTART-RU.md)
+[Открыть проект →](https://github.com/LosarOS/SHIFT) · [Скачать →](https://github.com/LosarOS/SHIFT/releases/tag/v1.0.0-rc.8) · [Быстрый старт →](https://github.com/LosarOS/SHIFT/blob/main/docs/QUICKSTART-RU.md)
 
 ---
 
@@ -55,9 +55,9 @@
 В приложении есть изолированные рабочие копии Git, история задач, пауза и продолжение, просмотр изменений и Центр действий. Подключение построено на официальном Codex SDK, основной способ входа — через ChatGPT/Codex.
 
 **Технологии:** Python · Codex SDK · Git · Windows Desktop  
-**Опубликованный выпуск:** 1.0.0-rc11, unsigned prerelease. Нативная упаковка проверена; интерактивная WebView2-приёмка и успешная разработка через живой SDK остаются отдельными gates. Независимый продукт, не официальное приложение OpenAI.
+**Опубликованный выпуск:** 1.0.0-rc12, unsigned prerelease. Проверены нативная упаковка, ограниченная WebView2 UIA-проверка, системное сохранение бюджета и graceful exit. Физическая GUI/DPI-приёмка и успешная разработка через живой SDK остаются отдельными gates. Независимый продукт, не официальное приложение OpenAI.
 
-[Репозиторий и описание →](https://github.com/LosarOS/codex-team) · [Руководство на русском →](https://github.com/LosarOS/codex-team/blob/master/docs/USER_GUIDE.md)
+[Репозиторий и описание →](https://github.com/LosarOS/codex-team) · [Скачать →](https://github.com/LosarOS/codex-team/releases/tag/v1.0.0-rc12) · [Руководство на русском →](https://github.com/LosarOS/codex-team/blob/master/docs/USER_GUIDE.md)
 
 ---
 
